@@ -1,0 +1,29 @@
+12:13:58.541 [main] INFO  testCases.testcase_Form - **opening form**
+12:14:42.448 [main] INFO  testCases.testcase_Form - **Starting sanity test**
+12:14:42.448 [main] INFO  testCases.testcase_Form - Checking the title of the current page url
+12:14:42.933 [main] INFO  testCases.testcase_Form - **Getting form details from Excel**
+12:14:45.792 [main] INFO  testCases.testcase_Form - **capturing invalidform screenshot **
+12:16:21.284 [main] INFO  testCases.testcase_FormValid - **opening Form**
+12:17:04.899 [main] INFO  testCases.testcase_FormValid - **Starting sanity test**
+12:17:04.899 [main] INFO  testCases.testcase_FormValid - Checking the title of the current page url
+12:17:05.287 [main] INFO  testCases.testcase_FormValid - **getting form detils from Excel**
+13:31:53.827 [main] INFO  testCases.Home - **Starting sanity test**
+13:31:53.834 [main] INFO  testCases.Home - Checking the title of the current page url
+13:31:54.283 [main] INFO  testCases.Home - ***Practo page has been opened***
+13:32:23.493 [main] INFO  testCases.Home - **loaction and specialisation has been selected
+13:32:23.493 [main] INFO  testCases.Home - **Selecting all the filter options required**
+13:33:02.801 [main] INFO  testCases.Home - **Printing the doctors details**
+13:34:02.436 [main] INFO  testCases.testcase_surgeries - **Starting sanity test**
+13:34:02.436 [main] INFO  testCases.testcase_surgeries - Checking the title of the current page url
+13:34:02.812 [main] INFO  testCases.testcase_surgeries - **printing surgeries list in console**
+13:34:04.259 [main] INFO  testCases.testcase_surgeries - ***capturing screenshot of surgeries list***
+13:34:58.091 [main] INFO  testCases.testcase_Form - **opening form**
+13:35:24.634 [main] INFO  testCases.testcase_Form - **Starting sanity test**
+13:35:24.634 [main] INFO  testCases.testcase_Form - Checking the title of the current page url
+13:35:24.907 [main] INFO  testCases.testcase_Form - **Getting form details from Excel**
+13:35:26.855 [main] INFO  testCases.testcase_Form - **capturing invalidform screenshot **
+13:36:21.856 [main] INFO  testCases.testcase_FormValid - **opening Form**
+13:36:48.649 [main] INFO  testCases.testcase_FormValid - **Starting sanity test**
+13:36:48.649 [main] INFO  testCases.testcase_FormValid - Checking the title of the current page url
+13:36:48.921 [main] INFO  testCases.testcase_FormValid - **getting form detils from Excel**
+13:37:19.629 [main] INFO  testCases.testcase_FormValid - **capturing Thank You Screenshot**

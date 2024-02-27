@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-27T13:30:58 IST" name="Suite" finished-at="2024-02-27T13:37:22 IST" duration-ms="384021">
+    <groups>
+      <group name="regression">
+        <method signature="Home.homepagetest()[pri:0, instance:testCases.Home@791f145a]" name="homepagetest" class="testCases.Home"/>
+        <method signature="testcase_Form.formpagetest()[pri:0, instance:testCases.testcase_Form@1ffaf86]" name="formpagetest" class="testCases.testcase_Form"/>
+        <method signature="testcase_FormValid.validformtest()[pri:0, instance:testCases.testcase_FormValid@1c7696c6]" name="validformtest" class="testCases.testcase_FormValid"/>
+        <method signature="testcase_surgeries.surgeries_test()[pri:0, instance:testCases.testcase_surgeries@13e344d]" name="surgeries_test" class="testCases.testcase_surgeries"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="Home.check_title()[pri:0, instance:testCases.Home@791f145a]" name="check_title" class="testCases.Home"/>
+        <method signature="testcase_Form.check_title_invalidform()[pri:0, instance:testCases.testcase_Form@1ffaf86]" name="check_title_invalidform" class="testCases.testcase_Form"/>
+        <method signature="testcase_FormValid.check_title_validform()[pri:0, instance:testCases.testcase_FormValid@1c7696c6]" name="check_title_validform" class="testCases.testcase_FormValid"/>
+        <method signature="testcase_surgeries.check_title_surgeries()[pri:0, instance:testCases.testcase_surgeries@13e344d]" name="check_title_surgeries" class="testCases.testcase_surgeries"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-02-27T13:30:58 IST" name="Test" finished-at="2024-02-27T13:37:22 IST" duration-ms="384021">
+      <class name="testCases.testcase_surgeries">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.testcase_surgeries@13e344d]" started-at="2024-02-27T13:33:07 IST" name="setup" finished-at="2024-02-27T13:34:00 IST" duration-ms="53130" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="check_title_surgeries()[pri:0, instance:testCases.testcase_surgeries@13e344d]" started-at="2024-02-27T13:34:00 IST" name="check_title_surgeries" finished-at="2024-02-27T13:34:02 IST" duration-ms="1815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_title_surgeries -->
+        <test-method signature="surgeries_test()[pri:0, instance:testCases.testcase_surgeries@13e344d]" started-at="2024-02-27T13:34:02 IST" name="surgeries_test" finished-at="2024-02-27T13:34:04 IST" depends-on-methods="testCases.testcase_surgeries.check_title_surgeries" duration-ms="1654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- surgeries_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.testcase_surgeries@13e344d]" started-at="2024-02-27T13:34:04 IST" name="tearDown" finished-at="2024-02-27T13:34:06 IST" duration-ms="1985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.testcase_surgeries -->
+      <class name="testCases.Home">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.Home@791f145a]" started-at="2024-02-27T13:30:59 IST" name="setup" finished-at="2024-02-27T13:31:53 IST" duration-ms="54307" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="check_title()[pri:0, instance:testCases.Home@791f145a]" started-at="2024-02-27T13:31:53 IST" name="check_title" finished-at="2024-02-27T13:31:54 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_title -->
+        <test-method signature="homepagetest()[pri:0, instance:testCases.Home@791f145a]" started-at="2024-02-27T13:31:54 IST" name="homepagetest" finished-at="2024-02-27T13:33:04 IST" depends-on-methods="testCases.Home.check_title" duration-ms="70764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepagetest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Home@791f145a]" started-at="2024-02-27T13:33:04 IST" name="tearDown" finished-at="2024-02-27T13:33:07 IST" duration-ms="2903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.Home -->
+      <class name="testCases.testcase_Form">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.testcase_Form@1ffaf86]" started-at="2024-02-27T13:34:06 IST" name="setup" finished-at="2024-02-27T13:34:58 IST" duration-ms="51622" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="check_title_invalidform()[pri:0, instance:testCases.testcase_Form@1ffaf86]" started-at="2024-02-27T13:34:58 IST" name="check_title_invalidform" finished-at="2024-02-27T13:35:24 IST" duration-ms="26831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_title_invalidform -->
+        <test-method signature="formpagetest()[pri:0, instance:testCases.testcase_Form@1ffaf86]" started-at="2024-02-27T13:35:24 IST" name="formpagetest" finished-at="2024-02-27T13:35:27 IST" depends-on-methods="testCases.testcase_Form.check_title_invalidform" duration-ms="2222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formpagetest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.testcase_Form@1ffaf86]" started-at="2024-02-27T13:35:27 IST" name="tearDown" finished-at="2024-02-27T13:35:29 IST" duration-ms="2762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.testcase_Form -->
+      <class name="testCases.testcase_FormValid">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.testcase_FormValid@1c7696c6]" started-at="2024-02-27T13:35:29 IST" name="setup" finished-at="2024-02-27T13:36:21 IST" duration-ms="51963" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="check_title_validform()[pri:0, instance:testCases.testcase_FormValid@1c7696c6]" started-at="2024-02-27T13:36:21 IST" name="check_title_validform" finished-at="2024-02-27T13:36:48 IST" duration-ms="27062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_title_validform -->
+        <test-method signature="validformtest()[pri:0, instance:testCases.testcase_FormValid@1c7696c6]" started-at="2024-02-27T13:36:48 IST" name="validformtest" finished-at="2024-02-27T13:37:19 IST" depends-on-methods="testCases.testcase_FormValid.check_title_validform" duration-ms="30845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validformtest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.testcase_FormValid@1c7696c6]" started-at="2024-02-27T13:37:19 IST" name="tearDown" finished-at="2024-02-27T13:37:22 IST" duration-ms="2900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.testcase_FormValid -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

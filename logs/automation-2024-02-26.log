@@ -1,0 +1,59 @@
+14:20:32.948 [main] INFO  testCases.testcase_FormValid - **Starting sanity test**
+14:20:32.961 [main] INFO  testCases.testcase_FormValid - Checking the title of the current page url
+14:20:33.224 [main] INFO  testCases.testcase_FormValid - **opening Form**
+14:37:22.267 [main] INFO  testCases.Home - **Starting sanity test**
+14:37:22.272 [main] INFO  testCases.Home - Checking the title of the current page url
+14:38:35.650 [main] INFO  testCases.testcase_surgeries - **Starting sanity test**
+14:38:35.651 [main] INFO  testCases.testcase_surgeries - Checking the title of the current page url
+14:40:22.829 [main] INFO  testCases.testcase_Form - **Starting sanity test**
+14:40:22.829 [main] INFO  testCases.testcase_Form - Checking the title of the current page url
+14:40:23.085 [main] INFO  testCases.testcase_Form - **opening form**
+14:42:09.148 [main] INFO  testCases.testcase_FormValid - **Starting sanity test**
+14:42:09.148 [main] INFO  testCases.testcase_FormValid - Checking the title of the current page url
+14:42:09.380 [main] INFO  testCases.testcase_FormValid - **opening Form**
+14:51:39.365 [main] INFO  testCases.Home - **Starting sanity test**
+14:51:39.371 [main] INFO  testCases.Home - Checking the title of the current page url
+14:51:39.667 [main] INFO  testCases.Home - ***Practo page has been opened***
+14:51:46.615 [main] INFO  testCases.Home - **loaction and specialisation has been selected
+14:51:46.616 [main] INFO  testCases.Home - **Selecting all the filter options required**
+14:51:59.382 [main] INFO  testCases.testcase_surgeries - **printing surgeries list in console**
+14:52:01.250 [main] INFO  testCases.testcase_surgeries - **Starting sanity test**
+14:52:01.250 [main] INFO  testCases.testcase_surgeries - Checking the title of the current page url
+14:52:01.731 [main] INFO  testCases.testcase_surgeries - ***capturing screenshot of surgeries list***
+14:52:09.201 [main] INFO  testCases.Home - **Starting sanity test**
+14:52:09.210 [main] INFO  testCases.Home - Checking the title of the current page url
+14:52:09.640 [main] INFO  testCases.Home - ***Practo page has been opened***
+14:52:31.895 [main] INFO  testCases.Home - **loaction and specialisation has been selected
+14:52:31.895 [main] INFO  testCases.Home - **Selecting all the filter options required**
+14:52:33.092 [main] INFO  testCases.testcase_Form - **opening form**
+14:52:49.759 [main] INFO  testCases.Home - **Printing the doctors details**
+14:53:00.573 [main] INFO  testCases.testcase_Form - **Starting sanity test**
+14:53:00.575 [main] INFO  testCases.testcase_Form - Checking the title of the current page url
+14:53:00.956 [main] INFO  testCases.testcase_Form - **Getting form details from Excel**
+14:53:04.588 [main] INFO  testCases.testcase_Form - **capturing invalidform screenshot **
+14:53:25.581 [main] INFO  testCases.testcase_FormValid - **opening Form**
+14:53:36.958 [main] INFO  testCases.testcase_surgeries - **printing surgeries list in console**
+14:54:26.996 [main] INFO  testCases.testcase_surgeries - **Starting sanity test**
+14:54:26.997 [main] INFO  testCases.testcase_surgeries - Checking the title of the current page url
+14:54:55.346 [main] INFO  testCases.testcase_FormValid - **Starting sanity test**
+14:54:55.346 [main] INFO  testCases.testcase_FormValid - Checking the title of the current page url
+14:54:55.604 [main] INFO  testCases.testcase_Form - **opening form**
+14:54:55.689 [main] INFO  testCases.testcase_FormValid - **getting form detils from Excel**
+14:55:35.774 [main] INFO  testCases.testcase_Form - **Starting sanity test**
+14:55:35.774 [main] INFO  testCases.testcase_Form - Checking the title of the current page url
+14:55:36.030 [main] INFO  testCases.testcase_Form - **Getting form details from Excel**
+14:55:37.792 [main] INFO  testCases.testcase_Form - **capturing invalidform screenshot **
+14:56:06.151 [main] INFO  testCases.testcase_FormValid - **opening Form**
+14:56:40.738 [main] INFO  testCases.testcase_FormValid - **Starting sanity test**
+14:56:40.738 [main] INFO  testCases.testcase_FormValid - Checking the title of the current page url
+14:56:40.978 [main] INFO  testCases.testcase_FormValid - **getting form detils from Excel**
+14:59:19.116 [main] INFO  testCases.Home - **Starting sanity test**
+14:59:19.120 [main] INFO  testCases.Home - Checking the title of the current page url
+14:59:19.454 [main] INFO  testCases.Home - ***Practo page has been opened***
+14:59:26.907 [main] INFO  testCases.Home - **loaction and specialisation has been selected
+14:59:26.907 [main] INFO  testCases.Home - **Selecting all the filter options required**
+15:00:40.405 [main] INFO  testCases.Home - **Starting sanity test**
+15:00:40.411 [main] INFO  testCases.Home - Checking the title of the current page url
+15:00:40.702 [main] INFO  testCases.Home - ***Practo page has been opened***
+15:01:16.307 [main] INFO  testCases.Home - **loaction and specialisation has been selected
+15:01:16.307 [main] INFO  testCases.Home - **Selecting all the filter options required**
